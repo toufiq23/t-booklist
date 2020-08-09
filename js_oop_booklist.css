@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	}
+
+
+#container {
+	height: 275px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#btn {
+	margin: 50px auto;
+	height: 50px;
+	width: 250px;
+	font-size: 22px;
+	background-color: rgb(192, 191, 191);
+}
+
+#output {
+	margin: 25px auto;
+	font-size: 26px;
+	color: white;
+}
+
+.created {
+	margin-top: 350px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 2em;
+	color: red;
+}

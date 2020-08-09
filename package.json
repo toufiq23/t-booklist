@@ -1,0 +1,14 @@
+{
+  "name": "t-booklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js_oop_booklist.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "M Toufiq ELAHI",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
